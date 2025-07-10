@@ -2,9 +2,9 @@
 
 ## Sobre o Projeto
 
-Este projeto tem como objetivo mostrar algumas das principais tags HTML, demonstrando seu uso e funcionalidades básicas.
+Este projeto tem como objetivo mostrar algumas das principais tags HTML, fundamentais para a construção de páginas web.
 
-## Tags Estudadas
+## Tags Estudadas 👩‍💻
 
 - **Títulos:** `<h1>` a `<h6>`
 - **Listas:** `<ol>` e `<ul>`
